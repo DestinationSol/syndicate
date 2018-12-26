@@ -1,7 +1,7 @@
 {
   "bazook": {
     "dmg": 500,
-    "spdLen": 2,
+    "speed": 2,
     "dmgType": "explosion",
     "tex": "syndicate:bazook",
     "texSz": 0.018,
